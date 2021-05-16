@@ -14,10 +14,10 @@ scenario to which they have to reply yes or no. If they answer “Yes” they wi
 one scenario. If “No” a different scenario. Each of these scenarios will then require another
 yes/no answer.
 
-Develop your own scenarios and create a decision tree game. Provide the entire Python code to
-be included in an application that creates a Binary Tree Structure for the game. Users can supply
-their yes or no answers either by console input or from a GUI.
+  Develop your own scenarios and create a decision tree game. Provide the entire Python code to
+  be included in an application that creates a Binary Tree Structure for the game. Users can supply
+  their yes or no answers either by console input or from a GUI.
 
-The Binary tree must have a height of at least 4. One approach would be to represent the Nodes
-by a class of which each node is an instance. Some leaf nodes must require the player to be
-moved back up the tree by at least 2 levels.
+  The Binary tree must have a height of at least 4. One approach would be to represent the Nodes
+  by a class of which each node is an instance. Some leaf nodes must require the player to be
+  moved back up the tree by at least 2 levels.
