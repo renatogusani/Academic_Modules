@@ -3,7 +3,7 @@
 1. range of functions must include: 8n, log n, 2n2,n3, 2n. In addition to these 5 functions the program should also include two extra functions of
 my choosing.
 
-2. a simnple binary search question asked to be done in word
+2. a simple binary search question asked to be done in word
 
 3. program that stores a graph with at least 6 vertices. The graph is initially empty – it
 has no edges. An end user will be required to build up a route
